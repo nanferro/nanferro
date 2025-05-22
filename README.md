@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Natasha - an aspiring frontend developer 
 
 🌱 Currently studying at Yandex Practicum, building a solid foundation in web development.  
-Former international journalist, now focused on writing clear code and crafting effective digital solutions.
+Former international journalist, now focused on writing clear code and crafting effective digital solutions.  
   
 🔧 Stack: HTML5, CSS3, JavaScript, TypeScript, React.js
 🛠️ Tools: VS Code, Webpack, Git, GitHub
