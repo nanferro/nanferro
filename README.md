@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Natasha - an aspiring frontend developer 
 
-🌱 Currently studying at Yandex Practicum, building a foundation in web development.  
+🌱 Currently studying at Yandex Practicum, building a solid foundation in web development.  
 Former international journalist, now focused on writing clear code and crafting effective digital solutions.
   
 🔧 Stack: HTML5, CSS3, JavaScript, TypeScript, React.js (in progress), Webpack  
@@ -14,5 +14,6 @@ _[Demo in Russian](https://nanferro.github.io/mesto-project-ff/) | [Code](https:
 - **Closing tag** is a fully responsive landing page built to practice adaptive layout techniques, decorative elements, and basic CSS animations.  
 _[Demo in Russian](https://nanferro.github.io/zakrivayuschiy-teg-f/) | [Code](https://github.com/nanferro/zakrivayuschiy-teg-f)_
 - **No Focus** is a responsive webpage created to practice adaptive layout and theme switching between light, dark, and system (auto) modes.
+_[Code](https://github.com/nanferro/slozhno-sosredotochitsya)_
 
 #### 📧 Feel free to reach out: **natzhelezov@gmail.com**
